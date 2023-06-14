@@ -2,7 +2,7 @@
 - 👀 I’m interested in Blockchain, Data analytics, Cryptocurrency, NFTs..
 - 🌱 I’m currently learning HTML,PowerBi,
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... benybreeze@gmail.com,09062102857
+- 📫 How to reach me ... benybreeze@gmail.com,+2349062102857
 
 <!---
 Benbreeze/Benbreeze is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
